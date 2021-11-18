@@ -74,6 +74,7 @@ section {
     margin-left: 80px;
     color: hsl(245, 75%, 52%);
     font-weight: 900;
+    transition: 0.25s easy-in-out;
 }
 
 .change-link:hover {
